@@ -61,9 +61,9 @@ Aspiring Software Developer | Tech Enthusiast | Problem Solver
   </picture>
   <br />
   <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=dracula" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=default" alt="GitHub Streak" />
+    <source srcset="https://github-readme-streak-stats.demolab.com?user=abhaycodess&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.demolab.com?user=abhaycodess&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.demolab.com?user=abhaycodess&theme=default" alt="GitHub Streak" />
   </picture>
   <br />
   <picture>
