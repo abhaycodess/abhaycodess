@@ -54,11 +54,23 @@ Aspiring Software Developer | Tech Enthusiast | Problem Solver
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhaycodess&show_icons=true&theme=dracula&count_private=true" alt="Abhay's GitHub Stats" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=abhaycodess&show_icons=true&count_private=true&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=abhaycodess&show_icons=true&count_private=true&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhaycodess&show_icons=true&count_private=true&theme=default" alt="Abhay's GitHub Stats" />
+  </picture>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=dracula" alt="GitHub Streak" />
+  <picture>
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=default" alt="GitHub Streak" />
+  </picture>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycodess&layout=compact&theme=dracula" alt="Top Languages" />
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycodess&layout=compact&theme=dracula" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycodess&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycodess&layout=compact&theme=default" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
