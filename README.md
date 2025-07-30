@@ -54,11 +54,11 @@ Aspiring Software Developer | Tech Enthusiast | Problem Solver
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhayRaj77&show_icons=true&theme=dracula&count_private=true" alt="Abhay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhaycodess&show_icons=true&theme=dracula&count_private=true" alt="Abhay's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhayRaj77&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhaycodess&theme=dracula" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhayRaj77&layout=compact&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaycodess&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ---
